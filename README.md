@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ladmins24
 - 👀 I’m interested in accesbility and creating stories, art, and sci-fi designs
 - 🌱 I’m currently learning how to make documents accessible
-- 💞️ I’m looking to collaborate on new projects
+- 💞️ I’m looking to collaborating on new projects
 - 📫 How to reach me ...
 
 <!---
